@@ -1,6 +1,4 @@
-
-
-<!--![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Wayland](https://img.shields.io/badge/Wayland-FF6B6B?style=for-the-badge)
 
@@ -32,8 +30,8 @@ Today, I maintain comprehensive documentation for all my configurations across m
 
 ### 🛠️ Current Setup
 - **OS**: Arch Linux
-- **Compositor**: River-classic/ Hyprland
-- **Window Manager**: Wayland  wlroots based & X11 
+- **Compositor**: River-classic / Hyprland
+- **Window Manager**: Wayland wlroots based
 - **Bar**: Waybar
 - **Launcher**: Rofi
 
@@ -45,16 +43,3 @@ Today, I maintain comprehensive documentation for all my configurations across m
 ---
 
 *wgparch © 2026 · A Wayland configuration hub*
-**WgpArch/WgpArch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

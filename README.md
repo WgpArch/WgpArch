@@ -45,7 +45,7 @@ Today, I maintain comprehensive documentation for all my configurations across m
 ---
 
 *wgparch © 2026 · A Wayland configuration hub*
-**WgpArch/WgpArch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**WgpArch/WgpArch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 

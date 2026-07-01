@@ -41,5 +41,10 @@ Today, I maintain comprehensive documentation for all my configurations across m
 - Experiment with compositors and window managers
 
 ---
+---
+
+## 🐍 Snake Eating My Contributions
+
+![Snake Animation](https://raw.githubusercontent.com/WgpArch/WgpArch/output/github-contribution-grid-snake-dark.svg)
 
 *wgparch © 2026 · A Wayland configuration hub*
